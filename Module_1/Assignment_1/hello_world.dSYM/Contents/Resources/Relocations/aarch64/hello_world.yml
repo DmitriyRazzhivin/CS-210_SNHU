@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dmitriyrazzhivin/VS_Projects/CS-210_SNHU/Module_1/Assignment_1/hello_world'
+relocations:     []
+...
