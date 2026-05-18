@@ -1,0 +1,16 @@
+# macOS System Files
+.DS_Store
+
+# Mac Debug Symbols (The folders you saw earlier)
+*.dSYM/
+
+# VS Code project settings
+.vscode/
+
+# Compiled C++ Executables
+# (Add the names of your compiled programs here)
+hello_world
+CONSTANT
+Sphere_volume
+*.out
+*.exe
